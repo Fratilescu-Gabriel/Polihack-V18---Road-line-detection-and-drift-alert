@@ -57,3 +57,7 @@ THE DATA FOLDER WAS EXCLUDED DUE TO BIG DISK SIZE OF DATASET
 ### `OTHER FILES`
 - Sampling and preprocessing of gameplay video screen capture
 - Assisted testing and tuning on the video preprocessed data
+
+
+### `Arduino prototype implementation`
+- The arduino sketch for the physical car prototype
