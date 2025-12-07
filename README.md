@@ -3,6 +3,8 @@
 This project is a small vision-only lane detection and drift alert demo for Euro Truck Simulator 2.  
 It reads frames from the screen (like a dashcam), detects lane lines, keeps them stable over time, and flags when the lane hasn’t been reliably seen for a while.
 
+THE DATA FOLDER WAS EXCLUDED DUE TO BIG DISK SIZE OF DATASET
+
 ---
 
 ## Main Components
